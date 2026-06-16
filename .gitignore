@@ -1,0 +1,19 @@
+# ROS 2 Build Artifacts (Just in case you ever build inside the repo)
+build/
+install/
+log/
+
+# Python Caches
+__pycache__/
+*.pyc
+
+# IDEs and Tools
+.vscode/
+compile_commands.json
+.idea/
+
+# Large Datasets and Rosbags
+*.db3
+*.bag
+*.mcap
+data/
